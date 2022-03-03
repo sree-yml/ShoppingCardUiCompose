@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
   Do not edit directly
-  Generated on Thu, 03 Mar 2022 04:46:28 GMT
+  Generated on Thu, 03 Mar 2022 05:04:49 GMT
 -->
 <resources>
   <color name="primary">#a7bac5</color>
   <color name="secondary">#000000</color>
-  <color name="surface">#f4e5e5</color>
+  <color name="surface">#fefefe</color>
 </resources>
