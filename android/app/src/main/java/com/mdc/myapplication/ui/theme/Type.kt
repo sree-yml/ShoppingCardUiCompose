@@ -1,21 +1,23 @@
 package com.mdc.myapplication.ui.theme
 
 import androidx.compose.material.Typography
-import androidx.compose.ui.res.fontResource
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
-import com.mdc.designtoken.R.*
-import com.mdc.myapplication.R
+import com.mdc.designtoken.R.font
 
+/**
+ *  Collection of font.
+ */
 val fonts = FontFamily(Font(font.rubik),
     Font(font.rubik_light, weight = FontWeight.Light),
     Font(font.rubik_medium, weight = FontWeight.Medium))
 
-
-// Set of Material typography styles to start with
+/**
+ *  Set of Material typography styles to start with
+ */
 val Typography = Typography(
     body1 = TextStyle(
         fontFamily = fonts,

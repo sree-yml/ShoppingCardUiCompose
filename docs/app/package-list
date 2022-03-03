@@ -1,0 +1,22 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:com.mdc.myapplication.ui.theme////PointingToDeclaration/app/com.mdc.myapplication.ui.theme/index.md
+$dokka.location:com.mdc.myapplication.ui.theme//MyApplicationTheme/#kotlin.Boolean#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/com.mdc.myapplication.ui.theme/-my-application-theme.md
+$dokka.location:com.mdc.myapplication.ui.theme//Purple200/#/PointingToDeclaration/app/com.mdc.myapplication.ui.theme/-purple200.md
+$dokka.location:com.mdc.myapplication.ui.theme//Purple500/#/PointingToDeclaration/app/com.mdc.myapplication.ui.theme/-purple500.md
+$dokka.location:com.mdc.myapplication.ui.theme//Purple700/#/PointingToDeclaration/app/com.mdc.myapplication.ui.theme/-purple700.md
+$dokka.location:com.mdc.myapplication.ui.theme//Shapes/#/PointingToDeclaration/app/com.mdc.myapplication.ui.theme/-shapes.md
+$dokka.location:com.mdc.myapplication.ui.theme//Teal200/#/PointingToDeclaration/app/com.mdc.myapplication.ui.theme/-teal200.md
+$dokka.location:com.mdc.myapplication.ui.theme//Typography/#/PointingToDeclaration/app/com.mdc.myapplication.ui.theme/-typography.md
+$dokka.location:com.mdc.myapplication.ui.theme//fonts/#/PointingToDeclaration/app/com.mdc.myapplication.ui.theme/fonts.md
+$dokka.location:com.mdc.myapplication////PointingToDeclaration/app/com.mdc.myapplication/index.md
+$dokka.location:com.mdc.myapplication//DefaultPreview/#/PointingToDeclaration/app/com.mdc.myapplication/-default-preview.md
+$dokka.location:com.mdc.myapplication//Greeting/#kotlin.String/PointingToDeclaration/app/com.mdc.myapplication/-greeting.md
+$dokka.location:com.mdc.myapplication//ShoppingCardUi/#/PointingToDeclaration/app/com.mdc.myapplication/-shopping-card-ui.md
+$dokka.location:com.mdc.myapplication//footer/#/PointingToDeclaration/app/com.mdc.myapplication/footer.md
+$dokka.location:com.mdc.myapplication//grayScaleMatrix/#/PointingToDeclaration/app/com.mdc.myapplication/gray-scale-matrix.md
+$dokka.location:com.mdc.myapplication/MainActivity///PointingToDeclaration/app/com.mdc.myapplication/-main-activity/index.md
+$dokka.location:com.mdc.myapplication/MainActivity/MainActivity/#/PointingToDeclaration/app/com.mdc.myapplication/-main-activity/-main-activity.md
+com.mdc.myapplication
+com.mdc.myapplication.ui.theme
+

@@ -27,6 +27,9 @@ import androidx.core.content.ContextCompat
 import com.mdc.designtoken.R
 import com.mdc.myapplication.ui.theme.MyApplicationTheme
 
+/**
+ *  Activity that host the components.
+ */
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -49,6 +52,9 @@ class MainActivity : ComponentActivity() {
 }
 
 
+/**
+ * Shopping Card Compose UI consist of all the components.
+ */
 @Composable
 fun ShoppingCardUi() {
     Card(backgroundColor = colorResource(id = R.color.surface),
@@ -63,6 +69,9 @@ fun ShoppingCardUi() {
 
 }
 
+/**
+ *  Image Compose
+ */
 @Composable
 private fun imageUi() {
     Image(painter = painterResource(id = R.drawable.bg),
@@ -70,6 +79,9 @@ private fun imageUi() {
         contentDescription = "")
 }
 
+/**
+ * Header Component.
+ */
 @Composable
 private fun headerUi() {
     Row(horizontalArrangement = Arrangement.Start,
@@ -114,6 +126,9 @@ private fun headerUi() {
 }
 
 
+/**
+ * Footer Component
+ */
 @Composable
 fun footer() {
     Row(horizontalArrangement = Arrangement.SpaceBetween,
@@ -156,6 +171,9 @@ fun footer() {
 }
 
 
+/**
+ *  Matrix for creating Gray Scale Image.
+ */
 val grayScaleMatrix = ColorMatrix(
     floatArrayOf(
         0.33f, 0.33f, 0.33f, 0f, 0f,

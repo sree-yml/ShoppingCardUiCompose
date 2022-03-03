@@ -13,7 +13,12 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 import com.mdc.designtoken.R
 
-
+/**
+ *  Base Application theme.
+ *
+ * @param darkTheme : When set to true, app will switch to dark theme.
+ * @param content Content composable.
+ */
 @Composable
 fun MyApplicationTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
