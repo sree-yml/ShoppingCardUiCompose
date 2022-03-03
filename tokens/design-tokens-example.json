@@ -26,7 +26,7 @@
       "surface": {
         "description": "",
         "type": "color",
-        "value": "#f4e5e5ff",
+        "value": "#fefefeff",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
             "styleId": "S:a8e54e99f13f39779fdc86f007c4b1a3c463a732,",
