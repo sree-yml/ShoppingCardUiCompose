@@ -4,7 +4,7 @@
       "primary": {
         "description": "",
         "type": "color",
-        "value": "#156797ff",
+        "value": "#a7bac5ff",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
             "styleId": "S:df46e9ffb208e7b8a9f0239251b51c2b6ec73235,",
@@ -142,7 +142,7 @@
       "base bold": {
         "type": "custom-fontStyle",
         "value": {
-          "fontSize": 18,
+          "fontSize": 14,
           "textDecoration": "none",
           "fontFamily": "Rubik",
           "fontWeight": 500,
@@ -394,7 +394,7 @@
       "base bold": {
         "fontSize": {
           "type": "dimension",
-          "value": 18
+          "value": 14
         },
         "textDecoration": {
           "type": "string",
