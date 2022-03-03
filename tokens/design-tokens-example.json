@@ -4,7 +4,7 @@
       "primary": {
         "description": "",
         "type": "color",
-        "value": "#a7bac5ff",
+        "value": "#2b8fc9ff",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
             "styleId": "S:df46e9ffb208e7b8a9f0239251b51c2b6ec73235,",
@@ -26,7 +26,7 @@
       "surface": {
         "description": "",
         "type": "color",
-        "value": "#fefefeff",
+        "value": "#ffffffff",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
             "styleId": "S:a8e54e99f13f39779fdc86f007c4b1a3c463a732,",
