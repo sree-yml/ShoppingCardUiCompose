@@ -39,7 +39,7 @@
       "primary": {
         "description": "",
         "type": "color",
-        "value": "#778994ff",
+        "value": "#9b9490ff",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
             "styleId": "S:d2163332060005503b4b4ba2b5b50b0126e8b883,",
@@ -61,7 +61,7 @@
       "surface": {
         "description": "",
         "type": "color",
-        "value": "#000000ff",
+        "value": "#332e2eff",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
             "styleId": "S:62fe25be81f30420d3f982a33a4b32e3f606f74e,",
