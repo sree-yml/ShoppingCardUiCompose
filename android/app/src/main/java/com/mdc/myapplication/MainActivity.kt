@@ -101,9 +101,8 @@ private fun headerUi() {
 
         Column(verticalArrangement = Arrangement.Top,
             modifier = Modifier
-                .fillMaxWidth()
-                .padding(start = 16.dp),
-            horizontalAlignment = Alignment.CenterHorizontally
+                .fillMaxWidth(),
+            horizontalAlignment = Alignment.End
         ) {
             Icon(
                 painter = painterResource(id = R.drawable.ic_menu),
