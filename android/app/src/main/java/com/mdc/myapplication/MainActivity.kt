@@ -6,6 +6,7 @@ import androidx.activity.compose.setContent
 import androidx.annotation.ColorRes
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
+import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.*
@@ -13,6 +14,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.ColorFilter
+import androidx.compose.ui.graphics.ColorMatrix
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontStyle
@@ -75,7 +78,9 @@ private fun headerUi() {
             .width(250.dp)
             .padding(start = 8.dp, top = 4.dp, bottom = 8.dp)) {
         Image(painter = painterResource(id = R.drawable.header),
-            contentDescription = "profile picture")
+            contentDescription = "profile picture", colorFilter = if (isSystemInDarkTheme()) {
+                ColorFilter.colorMatrix(colorMatrix = grayScaleMatrix)
+            } else null)
         Column(verticalArrangement = Arrangement.Top,
             horizontalAlignment = Alignment.Start) {
             Text(
@@ -150,6 +155,16 @@ fun footer() {
         )
     }
 }
+
+
+val grayScaleMatrix = ColorMatrix(
+    floatArrayOf(
+        0.33f, 0.33f, 0.33f, 0f, 0f,
+        0.33f, 0.33f, 0.33f, 0f, 0f,
+        0.33f, 0.33f, 0.33f, 0f, 0f,
+        0f, 0f, 0f, 1f, 0f
+    )
+)
 
 
 @Composable
