@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Do not edit directly
+  Generated on Wed, 02 Mar 2022 21:03:16 GMT
+-->
+<resources>
+  <style name="fontBodyLabel">
+    <item name="android:fontFamily">@font/rubik</item>
+    <item name="android:textSize">@dimen/fontBodyLabel</item>
+    <item name="android:lineHeight">16sp</item>
+    <item name="android:letterSpacing">1</item>
+    <item name="fontStyle">normal</item>
+    <item name="fontWeight">300</item>
+  </style>
+
+  <style name="fontBodyLabelBold">
+    <item name="android:fontFamily">@font/rubik</item>
+    <item name="android:textSize">@dimen/fontBodyLabelBold</item>
+    <item name="android:lineHeight">16sp</item>
+    <item name="android:letterSpacing">1</item>
+    <item name="fontStyle">normal</item>
+    <item name="fontWeight">500</item>
+  </style>
+
+  <style name="fontBodyBase">
+    <item name="android:fontFamily">@font/rubik</item>
+    <item name="android:textSize">@dimen/fontBodyBase</item>
+    <item name="android:lineHeight">16sp</item>
+    <item name="android:letterSpacing">1</item>
+    <item name="fontStyle">normal</item>
+    <item name="fontWeight">300</item>
+  </style>
+
+  <style name="fontBodyBaseBold">
+    <item name="android:fontFamily">@font/rubik</item>
+    <item name="android:textSize">@dimen/fontBodyBaseBold</item>
+    <item name="android:lineHeight">16sp</item>
+    <item name="android:letterSpacing">1</item>
+    <item name="fontStyle">normal</item>
+    <item name="fontWeight">500</item>
+  </style>
+
+  <style name="fontBodyCopy">
+    <item name="android:fontFamily">@font/rubik</item>
+    <item name="android:textSize">@dimen/fontBodyCopy</item>
+    <item name="android:lineHeight">25.6sp</item>
+    <item name="android:letterSpacing">1</item>
+    <item name="fontStyle">normal</item>
+    <item name="fontWeight">300</item>
+  </style>
+
+  <style name="fontBodyCopyBold">
+    <item name="android:fontFamily">@font/rubik</item>
+    <item name="android:textSize">@dimen/fontBodyCopyBold</item>
+    <item name="android:lineHeight">25.6sp</item>
+    <item name="android:letterSpacing">1</item>
+    <item name="fontStyle">normal</item>
+    <item name="fontWeight">500</item>
+  </style>
+
+  <style name="fontBodyLargeCopy">
+    <item name="android:fontFamily">@font/rubik</item>
+    <item name="android:textSize">@dimen/fontBodyLargeCopy</item>
+    <item name="android:lineHeight">30sp</item>
+    <item name="android:letterSpacing">1</item>
+    <item name="fontStyle">normal</item>
+    <item name="fontWeight">300</item>
+  </style>
+
+  <style name="fontBodyLargeCopyBold">
+    <item name="android:fontFamily">@font/rubik</item>
+    <item name="android:textSize">@dimen/fontBodyLargeCopyBold</item>
+    <item name="android:lineHeight">30sp</item>
+    <item name="android:letterSpacing">1</item>
+    <item name="fontStyle">normal</item>
+    <item name="fontWeight">500</item>
+  </style>
+
+</resources>

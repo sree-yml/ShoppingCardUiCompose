@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Wed, 02 Mar 2022 21:03:16 GMT
+-->
+<resources>
+  <dimen name="fontBodyLabel">12sp</dimen>
+  <dimen name="fontBodyLabelBold">12sp</dimen>
+  <dimen name="fontBodyBase">14sp</dimen>
+  <dimen name="fontBodyBaseBold">14sp</dimen>
+  <dimen name="fontBodyCopy">16sp</dimen>
+  <dimen name="fontBodyCopyBold">16sp</dimen>
+  <dimen name="fontBodyLargeCopy">20sp</dimen>
+  <dimen name="fontBodyLargeCopyBold">20sp</dimen>
+  <dimen name="typographyBodyLabelFontSize">12dp</dimen>
+  <dimen name="typographyBodyLabelLetterSpacing">0dp</dimen>
+  <dimen name="typographyBodyLabelLineHeight">16dp</dimen>
+  <dimen name="typographyBodyLabelParagraphIndent">0dp</dimen>
+  <dimen name="typographyBodyLabelParagraphSpacing">0dp</dimen>
+  <dimen name="typographyBodyLabelBoldFontSize">12dp</dimen>
+  <dimen name="typographyBodyLabelBoldLetterSpacing">0dp</dimen>
+  <dimen name="typographyBodyLabelBoldLineHeight">16dp</dimen>
+  <dimen name="typographyBodyLabelBoldParagraphIndent">0dp</dimen>
+  <dimen name="typographyBodyLabelBoldParagraphSpacing">0dp</dimen>
+  <dimen name="typographyBodyBaseFontSize">14dp</dimen>
+  <dimen name="typographyBodyBaseLetterSpacing">0dp</dimen>
+  <dimen name="typographyBodyBaseLineHeight">16dp</dimen>
+  <dimen name="typographyBodyBaseParagraphIndent">0dp</dimen>
+  <dimen name="typographyBodyBaseParagraphSpacing">0dp</dimen>
+  <dimen name="typographyBodyBaseBoldFontSize">14dp</dimen>
+  <dimen name="typographyBodyBaseBoldLetterSpacing">0dp</dimen>
+  <dimen name="typographyBodyBaseBoldLineHeight">16dp</dimen>
+  <dimen name="typographyBodyBaseBoldParagraphIndent">0dp</dimen>
+  <dimen name="typographyBodyBaseBoldParagraphSpacing">0dp</dimen>
+  <dimen name="typographyBodyCopyFontSize">16dp</dimen>
+  <dimen name="typographyBodyCopyLetterSpacing">0dp</dimen>
+  <dimen name="typographyBodyCopyLineHeight">25.6dp</dimen>
+  <dimen name="typographyBodyCopyParagraphIndent">0dp</dimen>
+  <dimen name="typographyBodyCopyParagraphSpacing">0dp</dimen>
+  <dimen name="typographyBodyCopyBoldFontSize">16dp</dimen>
+  <dimen name="typographyBodyCopyBoldLetterSpacing">0dp</dimen>
+  <dimen name="typographyBodyCopyBoldLineHeight">25.6dp</dimen>
+  <dimen name="typographyBodyCopyBoldParagraphIndent">0dp</dimen>
+  <dimen name="typographyBodyCopyBoldParagraphSpacing">0dp</dimen>
+  <dimen name="typographyBodyLargeCopyFontSize">20dp</dimen>
+  <dimen name="typographyBodyLargeCopyLetterSpacing">0dp</dimen>
+  <dimen name="typographyBodyLargeCopyLineHeight">30dp</dimen>
+  <dimen name="typographyBodyLargeCopyParagraphIndent">0dp</dimen>
+  <dimen name="typographyBodyLargeCopyParagraphSpacing">0dp</dimen>
+  <dimen name="typographyBodyLargeCopyBoldFontSize">20dp</dimen>
+  <dimen name="typographyBodyLargeCopyBoldLetterSpacing">0dp</dimen>
+  <dimen name="typographyBodyLargeCopyBoldLineHeight">30dp</dimen>
+  <dimen name="typographyBodyLargeCopyBoldParagraphIndent">0dp</dimen>
+  <dimen name="typographyBodyLargeCopyBoldParagraphSpacing">0dp</dimen>
+  
+</resources>
